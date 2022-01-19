@@ -1,0 +1,3 @@
+﻿  os4.cpp
+C:\Users\Юлия\source\repos\os4\os4\os4.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  os4.vcxproj -> C:\Users\Юлия\source\repos\os4\x64\Debug\os4.exe

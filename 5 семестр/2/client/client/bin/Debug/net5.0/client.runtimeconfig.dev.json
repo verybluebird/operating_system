@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zatol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zatol\\.nuget\\packages"
+    ]
+  }
+}

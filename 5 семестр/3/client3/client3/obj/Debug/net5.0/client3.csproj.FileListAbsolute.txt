@@ -1,0 +1,16 @@
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.csproj.AssemblyReference.cache
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.AssemblyInfoInputs.cache
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.AssemblyInfo.cs
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.csproj.CoreCompileInputs.cache
+C:\Users\zatol\source\repos\client3\client3\bin\Debug\net5.0\client3.exe
+C:\Users\zatol\source\repos\client3\client3\bin\Debug\net5.0\client3.deps.json
+C:\Users\zatol\source\repos\client3\client3\bin\Debug\net5.0\client3.runtimeconfig.json
+C:\Users\zatol\source\repos\client3\client3\bin\Debug\net5.0\client3.runtimeconfig.dev.json
+C:\Users\zatol\source\repos\client3\client3\bin\Debug\net5.0\client3.dll
+C:\Users\zatol\source\repos\client3\client3\bin\Debug\net5.0\ref\client3.dll
+C:\Users\zatol\source\repos\client3\client3\bin\Debug\net5.0\client3.pdb
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.dll
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\ref\client3.dll
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.pdb
+C:\Users\zatol\source\repos\client3\client3\obj\Debug\net5.0\client3.genruntimeconfig.cache
